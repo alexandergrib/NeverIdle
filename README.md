@@ -4,13 +4,14 @@
 
 
 
-## 一键脚本 One click to go
+## One click script 
+One click to go
 
 ```shell
 bash <(curl -s -L https://gist.githubusercontent.com/Ansen/e45320205faf5786d3282ac880f20bab/raw/onekey-NeverIdle.sh)
 ```
 
-MJJ 们估计会喜欢这个。感谢脚本作者 @Ansen
+MJJs will probably love this. Thanks to script author @Ansen
 
 The following commands are executed by default, but of course they cannot cover all requirements.
 For example, AMD does not have 2G memory, and there is no requirement to waste memory.
